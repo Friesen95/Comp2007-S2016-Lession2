@@ -1,5 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="COMP2007___S2016___Lesson_2___Part_2B.Site" %>
-
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="Lesson2_Part2.Default" %>
 <!DOCTYPE html>
 <html lang="en">
 <head runat="server">
